@@ -30,8 +30,8 @@ local.properties
 #############
 ##composer
 #############
-/lib/vender
-/lib/composer.lock
+lib/
+!lib/composer.json
 
 #################
 ## Visual Studio

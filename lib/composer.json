@@ -9,11 +9,11 @@
         "michelf/php-markdown": ">=1.0.0",
         "chrisboulton/php-resque": "1.2.x",
         "twig/twig": ">=1.15.0",
-        "dropbox-php/dropbox-php":">0.0.0",
-        "phpseclib/phpseclib":">0.0.0",
-        "raven/raven":">0.0.0",
-        "aws/aws-sdk-php": ">0.0.0",
-        "mrrio/shellwrap": ">0.0.0"
+        "dropbox-php/dropbox-php":">=1.0.0",
+        "phpseclib/phpseclib":">=0.3.5",
+        "raven/raven":">=0.8.0",
+        "aws/aws-sdk-php": ">=2.5.0",
+        "mrrio/shellwrap": ">=0.4.1"
     },
     "license": "MIT",
     "authors": [
