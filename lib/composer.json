@@ -1,0 +1,25 @@
+{
+    "name": "c0710204/optlib",
+    "description": "optlib",
+    "require": {
+        "gabordemooij/redbean": "dev-master",
+        "knplabs/gaufrette": "0.1.*",
+        "rmccue/requests": ">=1.0",
+        "monolog/monolog": ">=1.7.0",
+        "michelf/php-markdown": ">=1.0.0",
+        "chrisboulton/php-resque": "1.2.x",
+        "twig/twig": ">=1.15.0",
+        "dropbox-php/dropbox-php":">0.0.0",
+        "phpseclib/phpseclib":">0.0.0",
+        "raven/raven":">0.0.0",
+        "aws/aws-sdk-php": ">0.0.0",
+        "mrrio/shellwrap": ">0.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xiang Gu",
+            "email": "c0710204@gmail.com"
+        }
+    ]
+}
